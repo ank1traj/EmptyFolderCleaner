@@ -21,8 +21,8 @@ def show():
 
 window=Tk()
 window.geometry('500x500')
-window.title('Empty Folder Cleaner')
-l1=Label(text='Empty Folder Cleaner',font=('Times New Roman',20),bg='red',fg='white',width=35,height=1,anchor=N)
+window.title('Empty Folder Cleaner-Saurabh Jadhav ')
+l1=Label(text='Empty Folder Cleaner\nBy\nSaurabh Jadhav',font=('Times New Roman',20),bg='red',fg='white',width=35,height=3,anchor=N)
 l1.grid()
 l2=Label(text='Enter Directorie path \nto Delete all Empty Files:',font=('Courier New',19))
 l2.grid()
